@@ -1,0 +1,14 @@
+body {
+  background-color: tan;
+}
+
+.important {
+  color: red;
+}
+.highlight {
+  color: blueviolet;
+}
+
+.cupcake-type {
+  color: rgba(0, 141, 12, 0.336);
+}
